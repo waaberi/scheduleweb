@@ -1,0 +1,25 @@
+{
+    "max_english": 3,
+    "max_french": -1,
+    "courses": [
+        "ITI1100",
+        "ITI1121",
+        "MAT1322",
+        "MAT1348",
+        "PHY1322"
+    ],
+    "unavailable_components": [
+        {
+            "course": "MAT1722",
+            "component": "A00-LEC"
+        },
+                {
+            "course": "MAT1722",
+            "component": "B00-LEC"
+        },
+        {
+            "course": "MAT1322",
+            "component": "E00-LEC"
+        }
+    ]
+}
