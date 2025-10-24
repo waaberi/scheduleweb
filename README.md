@@ -1,3 +1,9 @@
+[https://scheduleweb-snowy.vercel.app/](https://scheduleweb-snowy.vercel.app/)
+
+The old Python code (much easier to understand) is also available as a folder.
+
+I'll keep the default nextjs readme if you want to run this locally.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
